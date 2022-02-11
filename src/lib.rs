@@ -81,7 +81,7 @@
 mod resolve;
 mod response_builder;
 mod service;
-mod util;
+pub mod util;
 
 pub use crate::resolve::*;
 pub use crate::response_builder::*;

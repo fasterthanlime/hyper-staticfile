@@ -1,3 +1,5 @@
+//! Internal utils, exposed here for reasons
+
 mod file_bytes_stream;
 mod file_response_builder;
 mod open_with_metadata;
